@@ -1,0 +1,1 @@
+# Bastard-HTB-Writeup
